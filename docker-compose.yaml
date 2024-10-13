@@ -2,7 +2,8 @@ version: '3.8'
 services:
   wire-pod:
     hostname: escapepod
-    image: ghcr.io/kercre123/wire-pod:main
+#    image: ghcr.io/kercre123/wire-pod:main
+    image: ghcr.io/Neo-dessinator/wire-pod:main
     restart: unless-stopped
     ports:
       - 443:443

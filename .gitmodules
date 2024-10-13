@@ -1,0 +1,3 @@
+[submodule "wiki-submodules/wire-pod.wiki"]
+	path = wiki-submodules/wire-pod.wiki
+	url = https://github.com/kercre123/wire-pod.wiki.git
